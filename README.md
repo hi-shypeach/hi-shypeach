@@ -1,4 +1,4 @@
-### Hi there 👋, Hey there, I'm Lindsay!
+Hey there, I'm Lindsay!
 I'm currently learning about front end development, and hope to be filling out more here soon! 
 
 Skills: HTML / CSS
