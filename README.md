@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋, Hey there, I'm Lindsay!
+I'm currently learning about front end development, and hope to be filling out more here soon! 
+
+Skills: HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
 **hi-shypeach/hi-shypeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
