@@ -1,9 +1,10 @@
 Hey there, I'm Lindsay!
 I'm currently learning about front end development, and hope to be filling out more here soon! 
 
-Skills: HTML / CSS
+Languages and Tools: HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+This dev runs on jams:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=grapelemonade&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9b29)](https://spotify-github-profile.kittinanx.com/api/view?uid=grapelemonade&redirect=true)
 
 
 <!--
