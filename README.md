@@ -29,7 +29,7 @@ I'm currently learning about front end development, and hope to be filling out m
 <div align=center>
   
   <a href="https://www.linkedin.com/in/lindsaygonshak/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://codepen.io/your-work">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
+  <a href="https://codepen.io/hi-shypeach">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
   <a href="https://lindsaymyportfolio.wordpress.com/">![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
 </div>
 
