@@ -1,7 +1,7 @@
 <h1 align=center>✨ Welcome to my profile ✨</h1>
 <p align=center>Hey there, I'm Lindsay!
 <br>
-I'm currently learning about front end development, and hope to be filling out more here soon.</p>
+I'm currently on my front end development journey, and am excited to share my work and projects here.</p>
 
 <h1 align=center>🍑 About me 🍑</h1>
 <p align=center>
