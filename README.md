@@ -1,11 +1,11 @@
 <h1 align=center>✨ Welcome to my profile ✨</h1>
 <p align=center>Hey there, I'm Lindsay!
 <br>
-I'm currently on my front end development journey, and am excited to share my work and projects here.</p>
+I'm currently on my data analytics journey, and am excited to share my work and projects here.</p>
 
 <h1 align=center>🍑 About me 🍑</h1>
 <p align=center>
-🌱 Growing web designer
+🌱 Growing data analyst
 <br>🎮 Gamer
 <br>💿 Vinyl Collector
 <br>📺 Anime watcher
@@ -21,7 +21,6 @@ I'm currently on my front end development journey, and am excited to share my wo
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 </div>
 
@@ -30,7 +29,6 @@ I'm currently on my front end development journey, and am excited to share my wo
   
   <a href="https://www.linkedin.com/in/lindsaygonshak/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://codepen.io/hi-shypeach">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
-  <a href="https://lindsaymyportfolio.wordpress.com/">![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
 </div>
 
 ---
